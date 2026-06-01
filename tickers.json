@@ -1,0 +1,59 @@
+{
+  "tickers": [
+    { "symbol": "TTE.PA", "name": "TotalEnergies", "sector": "Energy" },
+    { "symbol": "SU.PA", "name": "Schneider Electric", "sector": "Industrial" },
+    { "symbol": "SAN.PA", "name": "Sanofi", "sector": "Healthcare" },
+    { "symbol": "AIR.PA", "name": "Airbus", "sector": "Aerospace & Defense" },
+    { "symbol": "AI.PA", "name": "Air Liquide", "sector": "Chemicals" },
+    { "symbol": "VIE.PA", "name": "Veolia", "sector": "Waste Management" },
+    { "symbol": "SAF.PA", "name": "Safran", "sector": "Aerospace & Defense" },
+    {
+      "symbol": "BNP.PA",
+      "name": "BNP Paribas",
+      "sector": "Financial Services"
+    },
+    { "symbol": "CS.PA", "name": "AXA", "sector": "Insurance" },
+    { "symbol": "DG.PA", "name": "Vinci", "sector": "Construction" },
+    { "symbol": "BN.PA", "name": "Danone", "sector": "Consumer Goods" },
+    { "symbol": "KER.PA", "name": "Kering", "sector": "Luxury Goods" },
+    {
+      "symbol": "ACA.PA",
+      "name": "Crédit Agricole",
+      "sector": "Financial Services"
+    },
+    { "symbol": "ENGI.PA", "name": "Engie", "sector": "Utilities" },
+    {
+      "symbol": "STMPA.PA",
+      "name": "STMicroelectronics",
+      "sector": "Technology"
+    },
+    { "symbol": "HO.PA", "name": "Thales", "sector": "Aerospace & Defense" },
+    {
+      "symbol": "GLE.PA",
+      "name": "Société Générale",
+      "sector": "Financial Services"
+    },
+    { "symbol": "LR.PA", "name": "Legrand", "sector": "Industrial" },
+    { "symbol": "DSY.PA", "name": "Dassault Systèmes", "sector": "Technology" },
+    { "symbol": "SGO.PA", "name": "Saint-Gobain", "sector": "Construction" },
+    {
+      "symbol": "VIE.PA",
+      "name": "Veolia Environnement",
+      "sector": "Utilities"
+    },
+    { "symbol": "ORA.PA", "name": "Orange", "sector": "Telecommunication" },
+    { "symbol": "EDEN.PA", "name": "Edenred", "sector": "Financial Services" },
+    { "symbol": "CA.PA", "name": "Carrefour", "sector": "Consumer Staples" },
+    { "symbol": "FGR.PA", "name": "Eiffage", "sector": "Construction" },
+    {
+      "symbol": "DSY.PA",
+      "name": "Dassault Aviation",
+      "sector": "Aerospace & Defense"
+    },
+    {
+      "symbol": "AM.PA",
+      "name": "Dassault Aviation",
+      "sector": "Aerospace & Defense"
+    }
+  ]
+}

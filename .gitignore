@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+
+# Credentials mail (ne pas versionner)
+mail_config.json
+
+# Artefacts générés
+output/
+data.json
+
+/screenshot
+*.md
+*.pdf
+*.lock
